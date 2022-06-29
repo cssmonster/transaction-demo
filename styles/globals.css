@@ -14,3 +14,22 @@ a {
 * {
   box-sizing: border-box;
 }
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+@font-face {
+  font-family: SFProText;
+  src: url("/fonts/FontsFree-Net-SFProText-Regular1.ttf");
+  format: ("ttf");
+  font-display: swap;
+}
